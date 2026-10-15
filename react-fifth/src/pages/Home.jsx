@@ -49,7 +49,7 @@ export default function Home() {
       </div>
 
         {/* image tech stack */}
-        <div className = "flex gap-6 pt-10 justify-center items-center">
+        <div className = "flex gap-6 pt-10 pb-10 justify-center items-center">
           <img src = {html} alt="HTML" />
           <img src = {css} alt="CSS" />
           <img src = {node} alt="Node.js" />
