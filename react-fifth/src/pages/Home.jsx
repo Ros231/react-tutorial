@@ -17,9 +17,9 @@ export default function Home() {
     <div className="min-h-screen bg-black text-white">
       <Navbar pname="home" />
 
-      {/* Hero Section */}
+ 
       <div className="max-w-6xl mx-auto px-6 py-12 flex flex-col md:flex-row items-center justify-between gap-10">
-        {/* Left Side */}
+
         <div>
           <h1 className="text-5xl md:text-6xl font-serif mb-4 leading-tight">
             Full Stack Web <br /> Developer !
@@ -28,7 +28,7 @@ export default function Home() {
             Hi, I'm NinniN SAU. A passionate Full Stack Web Developer based in Thailand.
           </p>
 
-          {/* Social Icons */}
+     
           <div className="flex gap-4">
             <a
               href="https://linkedin.com"
@@ -49,7 +49,7 @@ export default function Home() {
           </div>
         </div>
 
-        {/* Right Side - Hero Image */}
+        
         <div>
           <img
             src={heroImg}
@@ -59,7 +59,7 @@ export default function Home() {
         </div>
       </div>
 
-      {/* Tech Stacks */}
+      
       <div className="text-center mt-12 pb-16">
         <h2 className="text-lg font-semibold mb-6">My Tech Stacks</h2>
         <div className="flex flex-wrap justify-center items-center gap-8 px-4">
