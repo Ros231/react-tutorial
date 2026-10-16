@@ -25,23 +25,17 @@ export default function Home() {
             Full Stack Web <br /> Developer !
           </h1>
           <p className="text-gray-300 max-w-md mb-6">
-            Hi, I'm NinniN SAU. A passionate Full Stack Web Developer based in Thailand.
+            Hi, I'm Phanuwat Torsrisakul. A passionate Full Stack Web Developer based in Thailand.
           </p>
 
      
           <div className="flex gap-4">
             <a
-              href="https://linkedin.com"
-              target="_blank"
-              rel="noreferrer"
               className="w-10 h-10 rounded-full bg-white text-black flex items-center justify-center"
             >
               <FaLinkedinIn className="text-xl" />
             </a>
             <a
-              href="https://github.com"
-              target="_blank"
-              rel="noreferrer"
               className="w-10 h-10 rounded-full bg-white text-black flex items-center justify-center"
             >
               <FaGithub className="text-2xl" />

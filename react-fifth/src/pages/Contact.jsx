@@ -22,7 +22,7 @@ export default function Contact() {
           <div className="flex flex-col items-center">
             <img src={c1Img} alt="Email" className="h-16 mb-4" />
             <a href="mailto:ninninsau@gmail.com" className="text-white hover:text-gray-300 text-sm">
-              ninninsau@gmail.com
+              phanuwat.goon@gmail.com
             </a>
           </div>
 
@@ -38,7 +38,7 @@ export default function Contact() {
           <div className="flex flex-col items-center">
             <img src={c3Img} alt="LinkedIn" className="h-16 mb-4" />
             <a href="https://linkedin.com" target="_blank" rel="noreferrer" className="text-white hover:text-gray-300 text-sm">
-              NinniN SAU
+              Phanuwat Torsrisakul
             </a>
           </div>
         </div>

@@ -7,7 +7,7 @@ export default function Navbar({ pname }) {
       {/* Logo */}
       <Link to="/" className="text-2xl font-bold flex items-center">
         <span className="text-green-500 font-mono mr-1">{'>_'}</span>
-        <span className="text-white">NinniN SAU</span>
+        <span className="text-white">Phanuwat Torsrisakul</span>
       </Link>
 
       {/* Menu links */}

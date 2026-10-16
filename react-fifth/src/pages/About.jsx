@@ -17,7 +17,7 @@ export default function About() {
         {/* Right Side */}
         <div className="flex-1">
           <h2 className="text-lg font-bold mb-4">
-            Hi, I'm NinniN SAU. A passionate Full Stack Web Developer based in Thailand.
+            Hi, I'm Phanuwat Torsrisakul. A passionate Full Stack Web Developer based in Thailand.
           </h2>
           <p className="text-gray-400 text-sm leading-relaxed mb-8">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt rem odit labore unde nemo omnis sequi hic sit laudantium repellendus recusandae vitae ea laborum, ipsa nisi eos autem. Blanditiis consequuntur velit nesciunt aperiam odit excepturi repellat libero in enim praesentium! Ex dicta est suscipit ipsam voluptate tempora voluptatum quam distinctio minus saepe nobis nulla amet fugiat sit autem deserunt asperiores vitae ea, libero sed! Libero fugit non, placeat nulla quae odio asperiores ratione! Accusantium placeat dolorem minus eos excepturi modi.
