@@ -21,7 +21,7 @@ export default function Contact() {
           {/* Email */}
           <div className="flex flex-col items-center">
             <img src={c1Img} alt="Email" className="h-16 mb-4" />
-            <a href="mailto:ninninsau@gmail.com" className="text-white hover:text-gray-300 text-sm">
+            <a href="#" className="text-white hover:text-gray-300 text-sm">
               phanuwat.goon@gmail.com
             </a>
           </div>
@@ -37,7 +37,7 @@ export default function Contact() {
           {/* LinkedIn */}
           <div className="flex flex-col items-center">
             <img src={c3Img} alt="LinkedIn" className="h-16 mb-4" />
-            <a href="https://linkedin.com" target="_blank" rel="noreferrer" className="text-white hover:text-gray-300 text-sm">
+            <a href="" target="_blank" rel="noreferrer" className="text-white hover:text-gray-300 text-sm">
               Phanuwat Torsrisakul
             </a>
           </div>
